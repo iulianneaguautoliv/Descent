@@ -1,1 +1,4 @@
-interface IPerson {}
+
+interface IPerson {
+  string Name {get;}
+}
