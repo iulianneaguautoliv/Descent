@@ -1,4 +1,4 @@
-
+class Student:IPerson{}
 
 interface IPerson {
   string Name {get;}
