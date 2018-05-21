@@ -1,4 +1,4 @@
 
-interface IPerson {
+interface IEmployee {
   string Name {get;}
 }
