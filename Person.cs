@@ -1,5 +1,7 @@
 
 // Comment
-interface IVeoneer {
+class IVeoneer {
   string Name {get;}
+  int x;
+  int y;
 }
